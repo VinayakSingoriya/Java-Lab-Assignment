@@ -47,7 +47,7 @@ class FourWheeler extends Vehicle{
     }
     void showDetails(){
         super.showDetails();
-        System.out.println("Average : "+average_);      
+        System.out.println("Average  : "+average_);      
     }
 
 
